@@ -19,4 +19,4 @@
  </details>
  
 > Contact for more info
-<img src="https://user-images.githubusercontent.com/108688904/177196490-7010c59c-8760-4a9e-91e4-d504ba6ddda0.png" width="170" height="170" />
+<img src="https://user-images.githubusercontent.com/108688904/177570981-5c3745b8-63ce-4593-bd4e-80fb180c4ff2.jpg" width="170" height="170" />
