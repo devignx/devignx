@@ -21,4 +21,4 @@
  </details>
  
 > Contact for more info
-<img src="https://user-images.githubusercontent.com/108688904/177570981-5c3745b8-63ce-4593-bd4e-80fb180c4ff2.jpg" width="170" height="170" />
+<img src="https://user-images.githubusercontent.com/108688904/183284336-e27527b8-efc1-4ea6-84b7-cd5357f02399.jpg" width="auto" height="170" />
