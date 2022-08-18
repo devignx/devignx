@@ -1,3 +1,5 @@
+<img src="https://api.daily.dev/devcards/8fe94e7e646d4d8689b9509edf133c08.png?r=x18" alt="devignx" width="200"/>
+
 # Hi, We are @devignx 
 ### we build Devign Brands!<br>
 
@@ -16,6 +18,7 @@
 - UIUX Design<br>
 - Brand Identity Design & Development<br>
 - Full Stack Web Development <br>
+- SEO | SMO<br>
 - Social Media Content Design etc.. <br><br>
   
  </details>
