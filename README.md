@@ -3,7 +3,7 @@
 # Hi, We are @devignx 
 ### we build Devign Brands!<br>
 
-```A Cloud based SaaS Initiative, providing Devign Experiences for Softwares with Modern Technology```
+```A team of developers, designers and technologists focused on building products that provide users with the best user experience and eye catching visual aesthetics.```
 
 
 [![](https://i.ibb.co/bJgKQ6Q/image-2.png)](https://instagram.com/devignx)
