@@ -16,7 +16,7 @@
 
 - UIUX Design<br>
 - Brand Identity Design & Development<br>
-- Full Stack Web Development <br>
+- Static & Full Stack Web Development <br>
 - SEO | SMO<br>
 - Social Media Content Design etc.. <br><br>
   
