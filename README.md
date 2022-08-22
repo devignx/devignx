@@ -10,7 +10,7 @@
 # Hi, We are @devignx 
 ### we build Devign Brands!<br>
 
-> A team of developers, designers and technologists focused on building products that provides the best user experience and eye catching visual aesthetics.
+> A team of developers, designers and technologists focused on building products that provides the best user experience and minimal & modern visuals.
 
 <details><summary>Services Include:</summary>
 
