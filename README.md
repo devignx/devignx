@@ -8,7 +8,7 @@
 
 
 # Hi, We are @devignx 
-### we build Devign Brands!<br>
+### we redefine your web presence!<br>
 
 > A team of developers, designers and technologists focused on building products that provides the best user experience and minimal & modern visuals.
 
@@ -22,6 +22,3 @@
 - Social Media Content Design etc.. <br><br>
   
  </details><br>
- 
-Contact for more info <br><br>
-<img src="https://user-images.githubusercontent.com/108688904/183284336-e27527b8-efc1-4ea6-84b7-cd5357f02399.jpg" width="auto" height="100" />
