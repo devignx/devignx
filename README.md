@@ -7,8 +7,8 @@
 <br>
 
 
-# Hi, We are @devignx 
-### we redefine your web presence!<br>
+# Hi, We are [@devignx](https://devignx.tech)
+### branding & creative development!<br>
 
 > A team of developers, designers and technologists focused on building products that provides the best user experience and minimal & modern visuals.
 
